@@ -1,0 +1,2 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (polinoms.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Polinomform.vcxproj -> C:\Users\Zver\Downloads\полиномы-c диска\полиномы\sln\vc10\Debug\Polinomform.exe
